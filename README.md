@@ -1,1 +1,3 @@
-# ejercicio-spotify
+# Ejercicio
+
+Descripción del proyecto
